@@ -25,7 +25,7 @@ import com.example.springBatch.SpringBatchExample.model.entity.PersonFieldSetMap
 @EnableBatchProcessing
 public class BatchConfiguration {
 
-	// Logs
+	// Logs Added
 
 	@Autowired
 	EntityManagerFactory entityManagerFactory;
